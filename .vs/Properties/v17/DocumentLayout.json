@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZacharyBruner\\source\\repos\\Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4652084-FCC4-4CF3-BCB0-D8923DEAC9AF}|Properties.csproj|c:\\users\\zacharybruner\\source\\repos\\properties\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4652084-FCC4-4CF3-BCB0-D8923DEAC9AF}|Properties.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4652084-FCC4-4CF3-BCB0-D8923DEAC9AF}|Properties.csproj|c:\\users\\zacharybruner\\source\\repos\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4652084-FCC4-4CF3-BCB0-D8923DEAC9AF}|Properties.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\ZacharyBruner\\source\\repos\\Properties\\car.cs",
+              "RelativeDocumentMoniker": "car.cs",
+              "ToolTip": "C:\\Users\\ZacharyBruner\\source\\repos\\Properties\\car.cs",
+              "RelativeToolTip": "car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:18:21.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZacharyBruner\\source\\repos\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZacharyBruner\\source\\repos\\Properties\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:15:21.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
